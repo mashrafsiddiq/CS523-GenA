@@ -1,0 +1,1034 @@
+
+Selection: Random
+Crossover: OnePoint
+Crossover Rate: 0.5
+Mutation: 0.2
+
+Start time: 03/07/2017 18:21:21
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 0
+Running for warrior: 2  Score of this warrior: 986
+Running for warrior: 3  Score of this warrior: 0
+Running for warrior: 4  Score of this warrior: 297
+Running for warrior: 5  Score of this warrior: 0
+Running for warrior: 6  Score of this warrior: 0
+Running for warrior: 7  Score of this warrior: 0
+Running for warrior: 8  Score of this warrior: 664
+Running for warrior: 9  Score of this warrior: 0
+Running for warrior: 10  Score of this warrior: 0
+Running for warrior: 11  Score of this warrior: 817
+Running for warrior: 12  Score of this warrior: 33
+Running for warrior: 13  Score of this warrior: 410
+Running for warrior: 14  Score of this warrior: 0
+Running for warrior: 15  Score of this warrior: 0
+Running for warrior: 16  Score of this warrior: 0
+Running for warrior: 17  Score of this warrior: 0
+Running for warrior: 18  Score of this warrior: 618
+Running for warrior: 19  Score of this warrior: 18
+Running for warrior: 20  Score of this warrior: 0
+Generation: 1
+986
+817
+664
+618
+410
+297
+33
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1149
+Running for warrior: 2  Score of this warrior: 865
+Running for warrior: 3  Score of this warrior: 42
+Running for warrior: 4  Score of this warrior: 0
+Running for warrior: 5  Score of this warrior: 0
+Running for warrior: 6  Score of this warrior: 0
+Running for warrior: 7  Score of this warrior: 0
+Running for warrior: 8  Score of this warrior: 58
+Running for warrior: 9  Score of this warrior: 562
+Running for warrior: 10  Score of this warrior: 390
+Running for warrior: 11  Score of this warrior: 519
+Running for warrior: 12  Score of this warrior: 439
+Running for warrior: 13  Score of this warrior: 770
+Running for warrior: 14  Score of this warrior: 0
+Running for warrior: 15  Score of this warrior: 947
+Running for warrior: 16  Score of this warrior: 42
+Running for warrior: 17  Score of this warrior: 0
+Running for warrior: 18  Score of this warrior: 15
+Running for warrior: 19  Score of this warrior: 39
+Running for warrior: 20  Score of this warrior: 1175
+Generation: 2
+1175
+1149
+947
+865
+770
+562
+519
+439
+390
+58
+42
+42
+39
+15
+0
+0
+0
+0
+0
+0
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 947
+Running for warrior: 2  Score of this warrior: 1222
+Running for warrior: 3  Score of this warrior: 749
+Running for warrior: 4  Score of this warrior: 423
+Running for warrior: 5  Score of this warrior: 410
+Running for warrior: 6  Score of this warrior: 502
+Running for warrior: 7  Score of this warrior: 384
+Running for warrior: 8  Score of this warrior: 460
+Running for warrior: 9  Score of this warrior: 16
+Running for warrior: 10  Score of this warrior: 752
+Running for warrior: 11  Score of this warrior: 0
+Running for warrior: 12  Score of this warrior: 0
+Running for warrior: 13  Score of this warrior: 406
+Running for warrior: 14  Score of this warrior: 306
+Running for warrior: 15  Score of this warrior: 430
+Running for warrior: 16  Score of this warrior: 54
+Running for warrior: 17  Score of this warrior: 353
+Running for warrior: 18  Score of this warrior: 449
+Running for warrior: 19  Score of this warrior: 702
+Running for warrior: 20  Score of this warrior: 0
+Generation: 3
+1222
+947
+752
+749
+702
+502
+460
+449
+430
+423
+410
+406
+384
+353
+306
+54
+16
+0
+0
+0
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1210
+Running for warrior: 2  Score of this warrior: 980
+Running for warrior: 3  Score of this warrior: 1131
+Running for warrior: 4  Score of this warrior: 690
+Running for warrior: 5  Score of this warrior: 347
+Running for warrior: 6  Score of this warrior: 299
+Running for warrior: 7  Score of this warrior: 308
+Running for warrior: 8  Score of this warrior: 891
+Running for warrior: 9  Score of this warrior: 617
+Running for warrior: 10  Score of this warrior: 461
+Running for warrior: 11  Score of this warrior: 442
+Running for warrior: 12  Score of this warrior: 556
+Running for warrior: 13  Score of this warrior: 360
+Running for warrior: 14  Score of this warrior: 436
+Running for warrior: 15  Score of this warrior: 341
+Running for warrior: 16  Score of this warrior: 769
+Running for warrior: 17  Score of this warrior: 657
+Running for warrior: 18  Score of this warrior: 425
+Running for warrior: 19  Score of this warrior: 325
+Running for warrior: 20  Score of this warrior: 660
+Generation: 4
+1210
+1131
+980
+891
+769
+690
+660
+657
+617
+556
+461
+442
+436
+425
+360
+347
+341
+325
+308
+299
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1164
+Running for warrior: 2  Score of this warrior: 843
+Running for warrior: 3  Score of this warrior: 1010
+Running for warrior: 4  Score of this warrior: 781
+Running for warrior: 5  Score of this warrior: 866
+Running for warrior: 6  Score of this warrior: 854
+Running for warrior: 7  Score of this warrior: 701
+Running for warrior: 8  Score of this warrior: 1276
+Running for warrior: 9  Score of this warrior: 863
+Running for warrior: 10  Score of this warrior: 978
+Running for warrior: 11  Score of this warrior: 1014
+Running for warrior: 12  Score of this warrior: 701
+Running for warrior: 13  Score of this warrior: 1127
+Running for warrior: 14  Score of this warrior: 1205
+Running for warrior: 15  Score of this warrior: 0
+Running for warrior: 16  Score of this warrior: 1247
+Running for warrior: 17  Score of this warrior: 874
+Running for warrior: 18  Score of this warrior: 886
+Running for warrior: 19  Score of this warrior: 800
+Running for warrior: 20  Score of this warrior: 1053
+Generation: 5
+1276
+1247
+1205
+1164
+1127
+1053
+1014
+1010
+978
+886
+874
+866
+863
+854
+843
+800
+781
+701
+701
+0
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1136
+Running for warrior: 2  Score of this warrior: 1232
+Running for warrior: 3  Score of this warrior: 1228
+Running for warrior: 4  Score of this warrior: 768
+Running for warrior: 5  Score of this warrior: 984
+Running for warrior: 6  Score of this warrior: 1396
+Running for warrior: 7  Score of this warrior: 1327
+Running for warrior: 8  Score of this warrior: 1120
+Running for warrior: 9  Score of this warrior: 1091
+Running for warrior: 10  Score of this warrior: 856
+Running for warrior: 11  Score of this warrior: 1082
+Running for warrior: 12  Score of this warrior: 975
+Running for warrior: 13  Score of this warrior: 1251
+Running for warrior: 14  Score of this warrior: 1347
+Running for warrior: 15  Score of this warrior: 1237
+Running for warrior: 16  Score of this warrior: 1112
+Running for warrior: 17  Score of this warrior: 1125
+Running for warrior: 18  Score of this warrior: 819
+Running for warrior: 19  Score of this warrior: 1054
+Running for warrior: 20  Score of this warrior: 880
+Generation: 6
+1396
+1347
+1327
+1251
+1237
+1232
+1228
+1136
+1125
+1120
+1112
+1091
+1082
+1054
+984
+975
+880
+856
+819
+768
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1219
+Running for warrior: 2  Score of this warrior: 1180
+Running for warrior: 3  Score of this warrior: 1126
+Running for warrior: 4  Score of this warrior: 1155
+Running for warrior: 5  Score of this warrior: 1213
+Running for warrior: 6  Score of this warrior: 1233
+Running for warrior: 7  Score of this warrior: 1286
+Running for warrior: 8  Score of this warrior: 1061
+Running for warrior: 9  Score of this warrior: 1109
+Running for warrior: 10  Score of this warrior: 1196
+Running for warrior: 11  Score of this warrior: 1335
+Running for warrior: 12  Score of this warrior: 1126
+Running for warrior: 13  Score of this warrior: 1047
+Running for warrior: 14  Score of this warrior: 1389
+Running for warrior: 15  Score of this warrior: 1193
+Running for warrior: 16  Score of this warrior: 1231
+Running for warrior: 17  Score of this warrior: 1222
+Running for warrior: 18  Score of this warrior: 1271
+Running for warrior: 19  Score of this warrior: 1031
+Running for warrior: 20  Score of this warrior: 1021
+Generation: 7
+1389
+1335
+1286
+1271
+1233
+1231
+1222
+1219
+1213
+1196
+1193
+1180
+1155
+1126
+1126
+1109
+1061
+1047
+1031
+1021
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1324
+Running for warrior: 2  Score of this warrior: 982
+Running for warrior: 3  Score of this warrior: 1197
+Running for warrior: 4  Score of this warrior: 977
+Running for warrior: 5  Score of this warrior: 0
+Running for warrior: 6  Score of this warrior: 633
+Running for warrior: 7  Score of this warrior: 42
+Running for warrior: 8  Score of this warrior: 241
+Running for warrior: 9  Score of this warrior: 1091
+Running for warrior: 10  Score of this warrior: 1234
+Running for warrior: 11  Score of this warrior: 1236
+Running for warrior: 12  Score of this warrior: 1178
+Running for warrior: 13  Score of this warrior: 1258
+Running for warrior: 14  Score of this warrior: 1290
+Running for warrior: 15  Score of this warrior: 1168
+Running for warrior: 16  Score of this warrior: 1216
+Running for warrior: 17  Score of this warrior: 1109
+Running for warrior: 18  Score of this warrior: 1204
+Running for warrior: 19  Score of this warrior: 1174
+Running for warrior: 20  Score of this warrior: 1128
+Generation: 8
+1324
+1290
+1258
+1236
+1234
+1216
+1204
+1197
+1178
+1174
+1168
+1128
+1109
+1091
+982
+977
+633
+241
+42
+0
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1022
+Running for warrior: 2  Score of this warrior: 1050
+Running for warrior: 3  Score of this warrior: 1396
+Running for warrior: 4  Score of this warrior: 997
+Running for warrior: 5  Score of this warrior: 1049
+Running for warrior: 6  Score of this warrior: 1145
+Running for warrior: 7  Score of this warrior: 1356
+Running for warrior: 8  Score of this warrior: 1207
+Running for warrior: 9  Score of this warrior: 1177
+Running for warrior: 10  Score of this warrior: 1180
+Running for warrior: 11  Score of this warrior: 1204
+Running for warrior: 12  Score of this warrior: 1211
+Running for warrior: 13  Score of this warrior: 1250
+Running for warrior: 14  Score of this warrior: 1164
+Running for warrior: 15  Score of this warrior: 1368
+Running for warrior: 16  Score of this warrior: 1120
+Running for warrior: 17  Score of this warrior: 1014
+Running for warrior: 18  Score of this warrior: 1402
+Running for warrior: 19  Score of this warrior: 1153
+Running for warrior: 20  Score of this warrior: 1327
+Generation: 9
+1402
+1396
+1368
+1356
+1327
+1250
+1211
+1207
+1204
+1180
+1177
+1164
+1153
+1145
+1120
+1050
+1049
+1022
+1014
+997
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1260
+Running for warrior: 2  Score of this warrior: 1240
+Running for warrior: 3  Score of this warrior: 1154
+Running for warrior: 4  Score of this warrior: 1413
+Running for warrior: 5  Score of this warrior: 1338
+Running for warrior: 6  Score of this warrior: 1319
+Running for warrior: 7  Score of this warrior: 1245
+Running for warrior: 8  Score of this warrior: 1200
+Running for warrior: 9  Score of this warrior: 1224
+Running for warrior: 10  Score of this warrior: 1160
+Running for warrior: 11  Score of this warrior: 1349
+Running for warrior: 12  Score of this warrior: 1373
+Running for warrior: 13  Score of this warrior: 1095
+Running for warrior: 14  Score of this warrior: 1387
+Running for warrior: 15  Score of this warrior: 945
+Running for warrior: 16  Score of this warrior: 1154
+Running for warrior: 17  Score of this warrior: 1296
+Running for warrior: 18  Score of this warrior: 1083
+Running for warrior: 19  Score of this warrior: 1361
+Running for warrior: 20  Score of this warrior: 1126
+Generation: 10
+1413
+1387
+1373
+1361
+1349
+1338
+1319
+1296
+1260
+1245
+1240
+1224
+1200
+1160
+1154
+1154
+1126
+1095
+1083
+945
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1253
+Running for warrior: 2  Score of this warrior: 1418
+Running for warrior: 3  Score of this warrior: 1127
+Running for warrior: 4  Score of this warrior: 1154
+Running for warrior: 5  Score of this warrior: 1040
+Running for warrior: 6  Score of this warrior: 18
+Running for warrior: 7  Score of this warrior: 1263
+Running for warrior: 8  Score of this warrior: 1139
+Running for warrior: 9  Score of this warrior: 1030
+Running for warrior: 10  Score of this warrior: 1356
+Running for warrior: 11  Score of this warrior: 1185
+Running for warrior: 12  Score of this warrior: 804
+Running for warrior: 13  Score of this warrior: 1118
+Running for warrior: 14  Score of this warrior: 1373
+Running for warrior: 15  Score of this warrior: 1382
+Running for warrior: 16  Score of this warrior: 1235
+Running for warrior: 17  Score of this warrior: 1134
+Running for warrior: 18  Score of this warrior: 1276
+Running for warrior: 19  Score of this warrior: 1244
+Running for warrior: 20  Score of this warrior: 1208
+Generation: 11
+1418
+1382
+1373
+1356
+1276
+1263
+1253
+1244
+1235
+1208
+1185
+1154
+1139
+1134
+1127
+1118
+1040
+1030
+804
+18
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1277
+Running for warrior: 2  Score of this warrior: 1395
+Running for warrior: 3  Score of this warrior: 738
+Running for warrior: 4  Score of this warrior: 1251
+Running for warrior: 5  Score of this warrior: 1182
+Running for warrior: 6  Score of this warrior: 1035
+Running for warrior: 7  Score of this warrior: 956
+Running for warrior: 8  Score of this warrior: 1045
+Running for warrior: 9  Score of this warrior: 1149
+Running for warrior: 10  Score of this warrior: 1275
+Running for warrior: 11  Score of this warrior: 1323
+Running for warrior: 12  Score of this warrior: 1233
+Running for warrior: 13  Score of this warrior: 1484
+Running for warrior: 14  Score of this warrior: 1051
+Running for warrior: 15  Score of this warrior: 1104
+Running for warrior: 16  Score of this warrior: 1133
+Running for warrior: 17  Score of this warrior: 908
+Running for warrior: 18  Score of this warrior: 1089
+Running for warrior: 19  Score of this warrior: 1213
+Running for warrior: 20  Score of this warrior: 1409
+Generation: 12
+1484
+1409
+1395
+1323
+1277
+1275
+1251
+1233
+1213
+1182
+1149
+1133
+1104
+1089
+1051
+1045
+1035
+956
+908
+738
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1208
+Running for warrior: 2  Score of this warrior: 1184
+Running for warrior: 3  Score of this warrior: 1053
+Running for warrior: 4  Score of this warrior: 1345
+Running for warrior: 5  Score of this warrior: 1103
+Running for warrior: 6  Score of this warrior: 1280
+Running for warrior: 7  Score of this warrior: 1334
+Running for warrior: 8  Score of this warrior: 1129
+Running for warrior: 9  Score of this warrior: 1237
+Running for warrior: 10  Score of this warrior: 1337
+Running for warrior: 11  Score of this warrior: 1253
+Running for warrior: 12  Score of this warrior: 1220
+Running for warrior: 13  Score of this warrior: 1254
+Running for warrior: 14  Score of this warrior: 1008
+Running for warrior: 15  Score of this warrior: 981
+Running for warrior: 16  Score of this warrior: 1247
+Running for warrior: 17  Score of this warrior: 1273
+Running for warrior: 18  Score of this warrior: 1354
+Running for warrior: 19  Score of this warrior: 1166
+Running for warrior: 20  Score of this warrior: 949
+Generation: 13
+1354
+1345
+1337
+1334
+1280
+1273
+1254
+1253
+1247
+1237
+1220
+1208
+1184
+1166
+1129
+1103
+1053
+1008
+981
+949
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1194
+Running for warrior: 2  Score of this warrior: 1108
+Running for warrior: 3  Score of this warrior: 1132
+Running for warrior: 4  Score of this warrior: 1075
+Running for warrior: 5  Score of this warrior: 488
+Running for warrior: 6  Score of this warrior: 1397
+Running for warrior: 7  Score of this warrior: 1296
+Running for warrior: 8  Score of this warrior: 978
+Running for warrior: 9  Score of this warrior: 1420
+Running for warrior: 10  Score of this warrior: 1037
+Running for warrior: 11  Score of this warrior: 1233
+Running for warrior: 12  Score of this warrior: 1462
+Running for warrior: 13  Score of this warrior: 1284
+Running for warrior: 14  Score of this warrior: 1301
+Running for warrior: 15  Score of this warrior: 1167
+Running for warrior: 16  Score of this warrior: 1474
+Running for warrior: 17  Score of this warrior: 967
+Running for warrior: 18  Score of this warrior: 1211
+Running for warrior: 19  Score of this warrior: 1246
+Running for warrior: 20  Score of this warrior: 1320
+Generation: 14
+1474
+1462
+1420
+1397
+1320
+1301
+1296
+1284
+1246
+1233
+1211
+1194
+1167
+1132
+1108
+1075
+1037
+978
+967
+488
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1032
+Running for warrior: 2  Score of this warrior: 1426
+Running for warrior: 3  Score of this warrior: 1066
+Running for warrior: 4  Score of this warrior: 1158
+Running for warrior: 5  Score of this warrior: 1208
+Running for warrior: 6  Score of this warrior: 900
+Running for warrior: 7  Score of this warrior: 1153
+Running for warrior: 8  Score of this warrior: 1401
+Running for warrior: 9  Score of this warrior: 1038
+Running for warrior: 10  Score of this warrior: 996
+Running for warrior: 11  Score of this warrior: 1353
+Running for warrior: 12  Score of this warrior: 1060
+Running for warrior: 13  Score of this warrior: 1226
+Running for warrior: 14  Score of this warrior: 1052
+Running for warrior: 15  Score of this warrior: 1384
+Running for warrior: 16  Score of this warrior: 1144
+Running for warrior: 17  Score of this warrior: 1141
+Running for warrior: 18  Score of this warrior: 1247
+Running for warrior: 19  Score of this warrior: 1120
+Running for warrior: 20  Score of this warrior: 1235
+Generation: 15
+1426
+1401
+1384
+1353
+1247
+1235
+1226
+1208
+1158
+1153
+1144
+1141
+1120
+1066
+1060
+1052
+1038
+1032
+996
+900
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1358
+Running for warrior: 2  Score of this warrior: 1223
+Running for warrior: 3  Score of this warrior: 1069
+Running for warrior: 4  Score of this warrior: 1056
+Running for warrior: 5  Score of this warrior: 1166
+Running for warrior: 6  Score of this warrior: 0
+Running for warrior: 7  Score of this warrior: 1018
+Running for warrior: 8  Score of this warrior: 962
+Running for warrior: 9  Score of this warrior: 969
+Running for warrior: 10  Score of this warrior: 960
+Running for warrior: 11  Score of this warrior: 1271
+Running for warrior: 12  Score of this warrior: 1267
+Running for warrior: 13  Score of this warrior: 1148
+Running for warrior: 14  Score of this warrior: 1060
+Running for warrior: 15  Score of this warrior: 1044
+Running for warrior: 16  Score of this warrior: 1098
+Running for warrior: 17  Score of this warrior: 1103
+Running for warrior: 18  Score of this warrior: 1235
+Running for warrior: 19  Score of this warrior: 1305
+Running for warrior: 20  Score of this warrior: 1181
+Generation: 16
+1358
+1305
+1271
+1267
+1235
+1223
+1181
+1166
+1148
+1103
+1098
+1069
+1060
+1056
+1044
+1018
+969
+962
+960
+0
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1374
+Running for warrior: 2  Score of this warrior: 1209
+Running for warrior: 3  Score of this warrior: 1237
+Running for warrior: 4  Score of this warrior: 925
+Running for warrior: 5  Score of this warrior: 1332
+Running for warrior: 6  Score of this warrior: 796
+Running for warrior: 7  Score of this warrior: 1254
+Running for warrior: 8  Score of this warrior: 1337
+Running for warrior: 9  Score of this warrior: 1322
+Running for warrior: 10  Score of this warrior: 1157
+Running for warrior: 11  Score of this warrior: 1073
+Running for warrior: 12  Score of this warrior: 1276
+Running for warrior: 13  Score of this warrior: 1271
+Running for warrior: 14  Score of this warrior: 1129
+Running for warrior: 15  Score of this warrior: 1111
+Running for warrior: 16  Score of this warrior: 1244
+Running for warrior: 17  Score of this warrior: 1284
+Running for warrior: 18  Score of this warrior: 1137
+Running for warrior: 19  Score of this warrior: 1151
+Running for warrior: 20  Score of this warrior: 1269
+Generation: 17
+1374
+1337
+1332
+1322
+1284
+1276
+1271
+1269
+1254
+1244
+1237
+1209
+1157
+1151
+1137
+1129
+1111
+1073
+925
+796
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1560
+Running for warrior: 2  Score of this warrior: 1079
+Running for warrior: 3  Score of this warrior: 1131
+Running for warrior: 4  Score of this warrior: 1253
+Running for warrior: 5  Score of this warrior: 1252
+Running for warrior: 6  Score of this warrior: 1117
+Running for warrior: 7  Score of this warrior: 1336
+Running for warrior: 8  Score of this warrior: 1362
+Running for warrior: 9  Score of this warrior: 1090
+Running for warrior: 10  Score of this warrior: 1250
+Running for warrior: 11  Score of this warrior: 1444
+Running for warrior: 12  Score of this warrior: 1298
+Running for warrior: 13  Score of this warrior: 1248
+Running for warrior: 14  Score of this warrior: 1202
+Running for warrior: 15  Score of this warrior: 1203
+Running for warrior: 16  Score of this warrior: 1053
+Running for warrior: 17  Score of this warrior: 1055
+Running for warrior: 18  Score of this warrior: 1420
+Running for warrior: 19  Score of this warrior: 951
+Running for warrior: 20  Score of this warrior: 946
+Generation: 18
+1560
+1444
+1420
+1362
+1336
+1298
+1253
+1252
+1250
+1248
+1203
+1202
+1131
+1117
+1090
+1079
+1055
+1053
+951
+946
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1237
+Running for warrior: 2  Score of this warrior: 1078
+Running for warrior: 3  Score of this warrior: 1294
+Running for warrior: 4  Score of this warrior: 21
+Running for warrior: 5  Score of this warrior: 949
+Running for warrior: 6  Score of this warrior: 1213
+Running for warrior: 7  Score of this warrior: 1376
+Running for warrior: 8  Score of this warrior: 1195
+Running for warrior: 9  Score of this warrior: 1107
+Running for warrior: 10  Score of this warrior: 49
+Running for warrior: 11  Score of this warrior: 1093
+Running for warrior: 12  Score of this warrior: 1255
+Running for warrior: 13  Score of this warrior: 1120
+Running for warrior: 14  Score of this warrior: 1462
+Running for warrior: 15  Score of this warrior: 1188
+Running for warrior: 16  Score of this warrior: 1215
+Running for warrior: 17  Score of this warrior: 1098
+Running for warrior: 18  Score of this warrior: 1112
+Running for warrior: 19  Score of this warrior: 1405
+Running for warrior: 20  Score of this warrior: 1328
+Generation: 19
+1462
+1405
+1376
+1328
+1294
+1255
+1237
+1215
+1213
+1195
+1188
+1120
+1112
+1107
+1098
+1093
+1078
+949
+49
+21
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+./pmars -r 100 BLUEFUNK.RED CANNON.RED FSTORM.RED IRONGATE.RED MARCIA13.RED NOBODY.RED PAPERONE.RED PSWING.RED RAVE.RED THERMITE.RED TIME.RED TORNADO.RED MY_WARRIOR.RED
+Running for warrior: 1  Score of this warrior: 1332
+Running for warrior: 2  Score of this warrior: 1112
+Running for warrior: 3  Score of this warrior: 1284
+Running for warrior: 4  Score of this warrior: 1385
+Running for warrior: 5  Score of this warrior: 1150
+Running for warrior: 6  Score of this warrior: 1129
+Running for warrior: 7  Score of this warrior: 942
+Running for warrior: 8  Score of this warrior: 1130
+Running for warrior: 9  Score of this warrior: 1415
+Running for warrior: 10  Score of this warrior: 859
+Running for warrior: 11  Score of this warrior: 1225
+Running for warrior: 12  Score of this warrior: 1195
+Running for warrior: 13  Score of this warrior: 1372
+Running for warrior: 14  Score of this warrior: 1320
+Running for warrior: 15  Score of this warrior: 1031
+Running for warrior: 16  Score of this warrior: 1159
+Running for warrior: 17  Score of this warrior: 1353
+Running for warrior: 18  Score of this warrior: 1019
+Running for warrior: 19  Score of this warrior: 1110
+Running for warrior: 20  Score of this warrior: 1175
+Generation: 20
+1415
+1385
+1372
+1353
+1332
+1320
+1284
+1225
+1195
+1175
+1159
+1150
+1130
+1129
+1112
+1110
+1031
+1019
+942
+859
+New warrior list size before selection: 20
+New warrior list size after selection: 20
+New warrior list size before crossover: 20
+New warrior list size after crossover: 20
+Best warrior: 
+; redcode
+; name :  CURRENT_WARRIOR_NAME
+; author :  GROUP_T9
+; assert    CORESIZE == 8000 && MAXLENGTH >= 100
+MUL @2, }6
+JMN $0, {4
+MOV  3, }7
+MUL <0, {4
+MOD }4, }7
+SEQ $2,  5
+MOD <5, #6
+SPL {3, *6
+ADD }6, #7
+SPL #6, {7
+DJN  1, $5
+DJN }1, $3
+SLT <1,  5
+SNE }4, @6
+SUB *5,  6
+SUB *2, #7
+DAT $1,  4
+JMN @3, }5
+MOV  1, }6
+JMN {3, {4
+SEQ <6, $7
+DJN #3, *6
+DAT #5,  6
+JMN {2, @7
+SUB <6, <7
+JMN  1, #3
+CMP <6, <7
+CMP {1, }5
+JMN }0, }1
+LDP {6, *7
+SNE {6,  7
+SNE @3, @4
+SPL <3, $6
+DIV <0, }3
+MOV {6, *7
+SEQ $6, #7
+SUB @2, {5
+MOV }2, #5
+STP $2,  7
+DIV  1, }6
+SLT {4, #7
+ADD $2, }5
+DIV }3, $7
+ADD @5, }6
+LDP {4,  6
+CMP }6, *7
+DJN @4, @6
+SLT @4,  6
+SNE {6, *7
+JMN $1, }3
+DJN $1, $4
+SLT *6, $7
+JMN <3, *4
+SLT @5, }7
+SUB $5,  7
+SUB *1, }7
+DAT {0,  4
+MOV <5, <6
+JMN @0, $5
+SLT @5, {7
+SEQ {5, <7
+SUB {5, }6
+CMP *0, *6
+ADD $6, {7
+SLT *1, {3
+ADD $5, @6
+SLT $4, <6
+STP @6, $7
+LDP *5, {6
+SEQ  6, }7
+JMP {0, *6
+SUB  4, $6
+SNE #0, #7
+JMZ {2, $7
+ADD {2,  7
+MUL #0, }5
+ADD {2, {3
+MOD  0, @2
+SUB $5, <7
+SLT <5, {7
+SEQ  5, @6
+SPL $1, <7
+MOV }0,  4
+SUB  1, {2
+MOV @0, $2
+DIV #0, *1
+DIV @3, <7
+SNE <3, {6
+ADD }2, <7
+SPL @0, *5
+JMP $4, {5
+STP  5, <6
+MOD <6, }7
+MUL @1, <2
+MOV <0, *2
+SPL $2, }5
+SUB #6,  7
+SUB #1, {3
+SPL {1, *6
+DJN <1, #4
+end ;  execution  ends  here
+End time: 03/07/2017 18:36:56
